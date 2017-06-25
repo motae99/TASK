@@ -247,12 +247,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/yiisoft/yii2-framework.git",
-            "reference": "2fbd92ce20ff2c435c573eb6962084056547d9a6"
+            "reference": "74dce2147c4f1c2cd7bb3b3245271e680d1ae9ce"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/2fbd92ce20ff2c435c573eb6962084056547d9a6",
-            "reference": "2fbd92ce20ff2c435c573eb6962084056547d9a6",
+            "url": "https://api.github.com/repos/yiisoft/yii2-framework/zipball/74dce2147c4f1c2cd7bb3b3245271e680d1ae9ce",
+            "reference": "74dce2147c4f1c2cd7bb3b3245271e680d1ae9ce",
             "shasum": ""
         },
         "require": {
@@ -268,7 +268,7 @@
             "php": ">=5.4.0",
             "yiisoft/yii2-composer": "~2.0.4"
         },
-        "time": "2017-06-17T11:49:38+00:00",
+        "time": "2017-06-23T23:28:54+00:00",
         "bin": [
             "yii"
         ],
@@ -370,19 +370,19 @@
         "source": {
             "type": "git",
             "url": "https://github.com/yiisoft/yii2-bootstrap.git",
-            "reference": "fe830200b069dfc03c5ece18e805ac46170edd37"
+            "reference": "b4681f1ed0496db6ed4a690bef0c1748f89de0d9"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/yiisoft/yii2-bootstrap/zipball/fe830200b069dfc03c5ece18e805ac46170edd37",
-            "reference": "fe830200b069dfc03c5ece18e805ac46170edd37",
+            "url": "https://api.github.com/repos/yiisoft/yii2-bootstrap/zipball/b4681f1ed0496db6ed4a690bef0c1748f89de0d9",
+            "reference": "b4681f1ed0496db6ed4a690bef0c1748f89de0d9",
             "shasum": ""
         },
         "require": {
             "bower-asset/bootstrap": "3.3.* | 3.2.* | 3.1.*",
             "yiisoft/yii2": "~2.0.6"
         },
-        "time": "2017-04-18T23:57:19+00:00",
+        "time": "2017-06-22T22:37:30+00:00",
         "type": "yii2-extension",
         "extra": {
             "branch-alias": {
@@ -530,19 +530,19 @@
         "source": {
             "type": "git",
             "url": "https://github.com/yiisoft/yii2-debug.git",
-            "reference": "1d3a7cb5b85505cfe0a4e50abe9ae9da45c09574"
+            "reference": "4b975802172cdbe07890013f037abb36c3f57d60"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/yiisoft/yii2-debug/zipball/1d3a7cb5b85505cfe0a4e50abe9ae9da45c09574",
-            "reference": "1d3a7cb5b85505cfe0a4e50abe9ae9da45c09574",
+            "url": "https://api.github.com/repos/yiisoft/yii2-debug/zipball/4b975802172cdbe07890013f037abb36c3f57d60",
+            "reference": "4b975802172cdbe07890013f037abb36c3f57d60",
             "shasum": ""
         },
         "require": {
             "yiisoft/yii2": "~2.0.11",
             "yiisoft/yii2-bootstrap": "~2.0.0"
         },
-        "time": "2017-05-22T12:59:26+00:00",
+        "time": "2017-06-23T23:16:51+00:00",
         "type": "yii2-extension",
         "extra": {
             "branch-alias": {
@@ -640,12 +640,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/yiisoft/yii2-gii.git",
-            "reference": "11dbba735105a098f8e0b44b601f91c062fb9324"
+            "reference": "3a51c662e38c1a7176ebeeec37444ab392746509"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/yiisoft/yii2-gii/zipball/11dbba735105a098f8e0b44b601f91c062fb9324",
-            "reference": "11dbba735105a098f8e0b44b601f91c062fb9324",
+            "url": "https://api.github.com/repos/yiisoft/yii2-gii/zipball/3a51c662e38c1a7176ebeeec37444ab392746509",
+            "reference": "3a51c662e38c1a7176ebeeec37444ab392746509",
             "shasum": ""
         },
         "require": {
@@ -654,7 +654,7 @@
             "yiisoft/yii2": "~2.0.4",
             "yiisoft/yii2-bootstrap": "~2.0.0"
         },
-        "time": "2017-05-22T12:25:11+00:00",
+        "time": "2017-06-22T22:36:43+00:00",
         "type": "yii2-extension",
         "extra": {
             "branch-alias": {
@@ -1886,63 +1886,6 @@
         "homepage": "https://github.com/sebastianbergmann/object-enumerator/"
     },
     {
-        "name": "symfony/yaml",
-        "version": "3.4.x-dev",
-        "version_normalized": "3.4.9999999.9999999-dev",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/yaml.git",
-            "reference": "08c644988dba9d608d18bb8ad8dd633f276137f7"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/symfony/yaml/zipball/08c644988dba9d608d18bb8ad8dd633f276137f7",
-            "reference": "08c644988dba9d608d18bb8ad8dd633f276137f7",
-            "shasum": ""
-        },
-        "require": {
-            "php": ">=5.5.9"
-        },
-        "require-dev": {
-            "symfony/console": "~2.8|~3.0|~4.0"
-        },
-        "suggest": {
-            "symfony/console": "For validating YAML files using the lint command"
-        },
-        "time": "2017-06-14T20:38:21+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "3.4-dev"
-            }
-        },
-        "installation-source": "source",
-        "autoload": {
-            "psr-4": {
-                "Symfony\\Component\\Yaml\\": ""
-            },
-            "exclude-from-classmap": [
-                "/Tests/"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Fabien Potencier",
-                "email": "fabien@symfony.com"
-            },
-            {
-                "name": "Symfony Community",
-                "homepage": "https://symfony.com/contributors"
-            }
-        ],
-        "description": "Symfony Yaml Component",
-        "homepage": "https://symfony.com"
-    },
-    {
         "name": "phpunit/phpunit-mock-objects",
         "version": "3.4.x-dev",
         "version_normalized": "3.4.9999999.9999999-dev",
@@ -2064,90 +2007,6 @@
         "homepage": "https://github.com/sebastianbergmann/php-code-coverage",
         "keywords": [
             "coverage",
-            "testing",
-            "xunit"
-        ]
-    },
-    {
-        "name": "phpunit/phpunit",
-        "version": "5.7.x-dev",
-        "version_normalized": "5.7.9999999.9999999-dev",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/sebastianbergmann/phpunit.git",
-            "reference": "db3166889854d881265f7d3caa20fa82132305fa"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/db3166889854d881265f7d3caa20fa82132305fa",
-            "reference": "db3166889854d881265f7d3caa20fa82132305fa",
-            "shasum": ""
-        },
-        "require": {
-            "ext-dom": "*",
-            "ext-json": "*",
-            "ext-libxml": "*",
-            "ext-mbstring": "*",
-            "ext-xml": "*",
-            "myclabs/deep-copy": "~1.3",
-            "php": "^5.6 || ^7.0",
-            "phpspec/prophecy": "^1.6.2",
-            "phpunit/php-code-coverage": "^4.0.4",
-            "phpunit/php-file-iterator": "~1.4",
-            "phpunit/php-text-template": "~1.2",
-            "phpunit/php-timer": "^1.0.6",
-            "phpunit/phpunit-mock-objects": "^3.2",
-            "sebastian/comparator": "^1.2.4",
-            "sebastian/diff": "^1.4.3",
-            "sebastian/environment": "^1.3.4 || ^2.0",
-            "sebastian/exporter": "~2.0",
-            "sebastian/global-state": "^1.1",
-            "sebastian/object-enumerator": "~2.0",
-            "sebastian/resource-operations": "~1.0",
-            "sebastian/version": "~1.0.3|~2.0",
-            "symfony/yaml": "~2.1|~3.0"
-        },
-        "conflict": {
-            "phpdocumentor/reflection-docblock": "3.0.2"
-        },
-        "require-dev": {
-            "ext-pdo": "*"
-        },
-        "suggest": {
-            "ext-xdebug": "*",
-            "phpunit/php-invoker": "~1.1"
-        },
-        "time": "2017-06-14T16:53:16+00:00",
-        "bin": [
-            "phpunit"
-        ],
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "5.7.x-dev"
-            }
-        },
-        "installation-source": "source",
-        "autoload": {
-            "classmap": [
-                "src/"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "BSD-3-Clause"
-        ],
-        "authors": [
-            {
-                "name": "Sebastian Bergmann",
-                "email": "sebastian@phpunit.de",
-                "role": "lead"
-            }
-        ],
-        "description": "The PHP Unit Testing framework.",
-        "homepage": "https://phpunit.de/",
-        "keywords": [
-            "phpunit",
             "testing",
             "xunit"
         ]
@@ -2319,78 +2178,6 @@
             "portable",
             "shim"
         ]
-    },
-    {
-        "name": "symfony/console",
-        "version": "3.4.x-dev",
-        "version_normalized": "3.4.9999999.9999999-dev",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/console.git",
-            "reference": "bd7bf81dc914c7c7c01daad32946681c85ea16ae"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/symfony/console/zipball/bd7bf81dc914c7c7c01daad32946681c85ea16ae",
-            "reference": "bd7bf81dc914c7c7c01daad32946681c85ea16ae",
-            "shasum": ""
-        },
-        "require": {
-            "php": ">=5.5.9",
-            "symfony/debug": "~2.8|~3.0|~4.0",
-            "symfony/polyfill-mbstring": "~1.0"
-        },
-        "conflict": {
-            "symfony/dependency-injection": "<3.3",
-            "symfony/process": "<3.3"
-        },
-        "require-dev": {
-            "psr/log": "~1.0",
-            "symfony/config": "~3.3|~4.0",
-            "symfony/dependency-injection": "~3.3|~4.0",
-            "symfony/event-dispatcher": "~2.8|~3.0|~4.0",
-            "symfony/filesystem": "~2.8|~3.0|~4.0",
-            "symfony/http-kernel": "~2.8|~3.0|~4.0",
-            "symfony/process": "~3.3|~4.0"
-        },
-        "suggest": {
-            "psr/log": "For using the console logger",
-            "symfony/event-dispatcher": "",
-            "symfony/filesystem": "",
-            "symfony/process": ""
-        },
-        "time": "2017-06-10T12:08:03+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "3.4-dev"
-            }
-        },
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "Symfony\\Component\\Console\\": ""
-            },
-            "exclude-from-classmap": [
-                "/Tests/"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Fabien Potencier",
-                "email": "fabien@symfony.com"
-            },
-            {
-                "name": "Symfony Community",
-                "homepage": "https://symfony.com/contributors"
-            }
-        ],
-        "description": "Symfony Console Component",
-        "homepage": "https://symfony.com"
     },
     {
         "name": "stecman/symfony-console-completion",
@@ -2614,65 +2401,6 @@
         "homepage": "https://symfony.com"
     },
     {
-        "name": "symfony/browser-kit",
-        "version": "3.4.x-dev",
-        "version_normalized": "3.4.9999999.9999999-dev",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/symfony/browser-kit.git",
-            "reference": "7292a66997c5f456e02141451f11e5135e80482c"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/symfony/browser-kit/zipball/7292a66997c5f456e02141451f11e5135e80482c",
-            "reference": "7292a66997c5f456e02141451f11e5135e80482c",
-            "shasum": ""
-        },
-        "require": {
-            "php": ">=5.5.9",
-            "symfony/dom-crawler": "~2.8|~3.0|~4.0"
-        },
-        "require-dev": {
-            "symfony/css-selector": "~2.8|~3.0|~4.0",
-            "symfony/process": "~2.8|~3.0|~4.0"
-        },
-        "suggest": {
-            "symfony/process": ""
-        },
-        "time": "2017-05-24T09:02:43+00:00",
-        "type": "library",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "3.4-dev"
-            }
-        },
-        "installation-source": "source",
-        "autoload": {
-            "psr-4": {
-                "Symfony\\Component\\BrowserKit\\": ""
-            },
-            "exclude-from-classmap": [
-                "/Tests/"
-            ]
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "MIT"
-        ],
-        "authors": [
-            {
-                "name": "Fabien Potencier",
-                "email": "fabien@symfony.com"
-            },
-            {
-                "name": "Symfony Community",
-                "homepage": "https://symfony.com/contributors"
-            }
-        ],
-        "description": "Symfony BrowserKit Component",
-        "homepage": "https://symfony.com"
-    },
-    {
         "name": "symfony/event-dispatcher",
         "version": "3.4.x-dev",
         "version_normalized": "3.4.9999999.9999999-dev",
@@ -2847,12 +2575,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/guzzle/psr7.git",
-            "reference": "8dfe52c2d14a68ff3dce6af82058391c6c4eb9b3"
+            "reference": "526d8ef63e8701e02216b621e4a3a16085e2286f"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/guzzle/psr7/zipball/8dfe52c2d14a68ff3dce6af82058391c6c4eb9b3",
-            "reference": "8dfe52c2d14a68ff3dce6af82058391c6c4eb9b3",
+            "url": "https://api.github.com/repos/guzzle/psr7/zipball/526d8ef63e8701e02216b621e4a3a16085e2286f",
+            "reference": "526d8ef63e8701e02216b621e4a3a16085e2286f",
             "shasum": ""
         },
         "require": {
@@ -2865,7 +2593,7 @@
         "require-dev": {
             "phpunit/phpunit": "~4.0"
         },
-        "time": "2017-06-10T19:55:42+00:00",
+        "time": "2017-06-19T13:30:27+00:00",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -3080,5 +2808,277 @@
             }
         ],
         "description": "BDD code blocks for PHPUnit and Codeception"
+    },
+    {
+        "name": "symfony/yaml",
+        "version": "3.4.x-dev",
+        "version_normalized": "3.4.9999999.9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/yaml.git",
+            "reference": "1faeaf2aa8180967d80329213f77c1bcb75fe4fa"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/symfony/yaml/zipball/1faeaf2aa8180967d80329213f77c1bcb75fe4fa",
+            "reference": "1faeaf2aa8180967d80329213f77c1bcb75fe4fa",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5.9"
+        },
+        "require-dev": {
+            "symfony/console": "~2.8|~3.0|~4.0"
+        },
+        "suggest": {
+            "symfony/console": "For validating YAML files using the lint command"
+        },
+        "time": "2017-06-24T09:47:31+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.4-dev"
+            }
+        },
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Symfony\\Component\\Yaml\\": ""
+            },
+            "exclude-from-classmap": [
+                "/Tests/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Fabien Potencier",
+                "email": "fabien@symfony.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "https://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony Yaml Component",
+        "homepage": "https://symfony.com"
+    },
+    {
+        "name": "phpunit/phpunit",
+        "version": "5.7.x-dev",
+        "version_normalized": "5.7.9999999.9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/sebastianbergmann/phpunit.git",
+            "reference": "c0c61c97be37e1c77ab61ad73448e9208c05aade"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/c0c61c97be37e1c77ab61ad73448e9208c05aade",
+            "reference": "c0c61c97be37e1c77ab61ad73448e9208c05aade",
+            "shasum": ""
+        },
+        "require": {
+            "ext-dom": "*",
+            "ext-json": "*",
+            "ext-libxml": "*",
+            "ext-mbstring": "*",
+            "ext-xml": "*",
+            "myclabs/deep-copy": "~1.3",
+            "php": "^5.6 || ^7.0",
+            "phpspec/prophecy": "^1.6.2",
+            "phpunit/php-code-coverage": "^4.0.4",
+            "phpunit/php-file-iterator": "~1.4",
+            "phpunit/php-text-template": "~1.2",
+            "phpunit/php-timer": "^1.0.6",
+            "phpunit/phpunit-mock-objects": "^3.2",
+            "sebastian/comparator": "^1.2.4",
+            "sebastian/diff": "^1.4.3",
+            "sebastian/environment": "^1.3.4 || ^2.0",
+            "sebastian/exporter": "~2.0",
+            "sebastian/global-state": "^1.1",
+            "sebastian/object-enumerator": "~2.0",
+            "sebastian/resource-operations": "~1.0",
+            "sebastian/version": "~1.0.3|~2.0",
+            "symfony/yaml": "~2.1|~3.0"
+        },
+        "conflict": {
+            "phpdocumentor/reflection-docblock": "3.0.2"
+        },
+        "require-dev": {
+            "ext-pdo": "*"
+        },
+        "suggest": {
+            "ext-xdebug": "*",
+            "phpunit/php-invoker": "~1.1"
+        },
+        "time": "2017-06-23T12:45:27+00:00",
+        "bin": [
+            "phpunit"
+        ],
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "5.7.x-dev"
+            }
+        },
+        "installation-source": "source",
+        "autoload": {
+            "classmap": [
+                "src/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Sebastian Bergmann",
+                "email": "sebastian@phpunit.de",
+                "role": "lead"
+            }
+        ],
+        "description": "The PHP Unit Testing framework.",
+        "homepage": "https://phpunit.de/",
+        "keywords": [
+            "phpunit",
+            "testing",
+            "xunit"
+        ]
+    },
+    {
+        "name": "symfony/console",
+        "version": "3.4.x-dev",
+        "version_normalized": "3.4.9999999.9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/console.git",
+            "reference": "0353f8aa5843d0cae051185514c0d877699704cc"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/symfony/console/zipball/0353f8aa5843d0cae051185514c0d877699704cc",
+            "reference": "0353f8aa5843d0cae051185514c0d877699704cc",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5.9",
+            "symfony/debug": "~2.8|~3.0|~4.0",
+            "symfony/polyfill-mbstring": "~1.0"
+        },
+        "conflict": {
+            "symfony/dependency-injection": "<3.3",
+            "symfony/process": "<3.3"
+        },
+        "require-dev": {
+            "psr/log": "~1.0",
+            "symfony/config": "~3.3|~4.0",
+            "symfony/dependency-injection": "~3.3|~4.0",
+            "symfony/event-dispatcher": "~2.8|~3.0|~4.0",
+            "symfony/filesystem": "~2.8|~3.0|~4.0",
+            "symfony/http-kernel": "~2.8|~3.0|~4.0",
+            "symfony/process": "~3.3|~4.0"
+        },
+        "suggest": {
+            "psr/log": "For using the console logger",
+            "symfony/event-dispatcher": "",
+            "symfony/filesystem": "",
+            "symfony/process": ""
+        },
+        "time": "2017-06-24T09:47:31+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.4-dev"
+            }
+        },
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Symfony\\Component\\Console\\": ""
+            },
+            "exclude-from-classmap": [
+                "/Tests/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Fabien Potencier",
+                "email": "fabien@symfony.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "https://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony Console Component",
+        "homepage": "https://symfony.com"
+    },
+    {
+        "name": "symfony/browser-kit",
+        "version": "3.4.x-dev",
+        "version_normalized": "3.4.9999999.9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/browser-kit.git",
+            "reference": "24ccab4a84236bf328b512ed95b2d0992973b11f"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/symfony/browser-kit/zipball/24ccab4a84236bf328b512ed95b2d0992973b11f",
+            "reference": "24ccab4a84236bf328b512ed95b2d0992973b11f",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5.9",
+            "symfony/dom-crawler": "~2.8|~3.0|~4.0"
+        },
+        "require-dev": {
+            "symfony/css-selector": "~2.8|~3.0|~4.0",
+            "symfony/process": "~2.8|~3.0|~4.0"
+        },
+        "suggest": {
+            "symfony/process": ""
+        },
+        "time": "2017-06-24T09:47:31+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.4-dev"
+            }
+        },
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Symfony\\Component\\BrowserKit\\": ""
+            },
+            "exclude-from-classmap": [
+                "/Tests/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Fabien Potencier",
+                "email": "fabien@symfony.com"
+            },
+            {
+                "name": "Symfony Community",
+                "homepage": "https://symfony.com/contributors"
+            }
+        ],
+        "description": "Symfony BrowserKit Component",
+        "homepage": "https://symfony.com"
     }
 ]
