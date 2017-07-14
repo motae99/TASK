@@ -52,7 +52,10 @@ $config = [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'rules' => [
-               [ 'class' => 'yii\rest\UrlRule', 'controller' => 'task']
+               [ 
+                'class' => 'yii\rest\UrlRule',
+                'controller' => ['task', 'token', 'loan']
+                ]
             ],
         ],
          
