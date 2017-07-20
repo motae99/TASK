@@ -20,12 +20,12 @@ class LoanController extends ActiveController{
     	$model = new Loan();
         $model->load(yii::$app->request->post(), '');
         
-        $model->attributes = $_POST['loans'];
-    	print_r($model->attributes);
-    	die();
+//         $model->attributes = $_POST['loans'];
+//     	print_r($model->attributes);
+//     	die();
 
-    	// $model->save();
-    	// return $model;
+    	$model->save();
+    	return $model;
 
     }
 }
